@@ -1,0 +1,32 @@
+#about_title{
+    margin-top:5%;
+    margin-left: 5%;
+}
+#about_paragraph{
+    margin-top: 10%;
+    margin-left: 3%;
+    margin-right: 50%;
+    font-size: large;
+}
+#about_picture{
+    width: 40%;
+    position: relative;
+    float: right;
+    bottom: 220px;
+}
+footer{
+    text-align: center;
+    /*margin-top: 3%;*/
+    margin-left: 15%;
+    margin-right: 10%;
+}
+.jumbotron-fluid{
+    margin-top: 15%;
+    background-color: orange;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: gray;
+}
