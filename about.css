@@ -1,3 +1,6 @@
+body,html{
+    font-family: 'Permanent Marker', cursive;
+}
 #about_title{
     margin-top:5%;
     margin-left: 5%;
@@ -22,7 +25,7 @@ footer{
 }
 .jumbotron-fluid{
     margin-top: 15%;
-    background-color: orange;
+
 }
 .navbar-dark .navbar-nav .nav-link {
     color: white;
@@ -30,3 +33,6 @@ footer{
 .navbar-dark .navbar-nav .nav-link:hover {
     color: gray;
 }
+/*.display-4, .lead{*/
+/*    color: white;*/
+/*}*/

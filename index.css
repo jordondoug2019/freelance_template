@@ -2,6 +2,7 @@ body,html{
     margin:0;
     padding:0;
     overflow: hidden;
+    font-family: 'Permanent Marker', cursive;
 }
 #bg_box {
     margin-top: 10%;
